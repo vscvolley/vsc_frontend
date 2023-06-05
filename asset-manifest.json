@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/app/static/css/main.9a839bc1.css",
+    "main.js": "/app/static/js/main.ddbcc45a.js",
+    "static/js/787.8bb8eac0.chunk.js": "/app/static/js/787.8bb8eac0.chunk.js",
+    "static/media/volleyball.svg": "/app/static/media/volleyball.eb87dd7bc6ff0177c69ad55bd507b2d5.svg",
+    "index.html": "/app/index.html",
+    "main.9a839bc1.css.map": "/app/static/css/main.9a839bc1.css.map",
+    "main.ddbcc45a.js.map": "/app/static/js/main.ddbcc45a.js.map",
+    "787.8bb8eac0.chunk.js.map": "/app/static/js/787.8bb8eac0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a839bc1.css",
+    "static/js/main.ddbcc45a.js"
+  ]
+}
