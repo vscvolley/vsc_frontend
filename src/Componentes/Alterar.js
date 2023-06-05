@@ -51,7 +51,7 @@ export default function Alterar() {
         };
 
         const nav= (event, reason) => {
-          navigate('/');
+          navigate('/vsc_frontend');
           }
 
     const action = (

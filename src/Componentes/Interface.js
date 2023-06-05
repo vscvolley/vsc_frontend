@@ -42,7 +42,7 @@ function Interface() {
     }
 
     const nav1= (e) => {
-      navigate('/');
+      navigate('/vsc_frontend');
     }
 
     const actions = [
