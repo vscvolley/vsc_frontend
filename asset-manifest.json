@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//vsc_frontend/static/css/main.9a839bc1.css",
-    "main.js": "//vsc_frontend/static/js/main.53f2c571.js",
-    "static/js/787.8bb8eac0.chunk.js": "//vsc_frontend/static/js/787.8bb8eac0.chunk.js",
-    "static/media/volleyball.svg": "//vsc_frontend/static/media/volleyball.eb87dd7bc6ff0177c69ad55bd507b2d5.svg",
-    "index.html": "//vsc_frontend/index.html",
-    "main.9a839bc1.css.map": "//vsc_frontend/static/css/main.9a839bc1.css.map",
-    "main.53f2c571.js.map": "//vsc_frontend/static/js/main.53f2c571.js.map",
-    "787.8bb8eac0.chunk.js.map": "//vsc_frontend/static/js/787.8bb8eac0.chunk.js.map"
+    "main.css": "/vsc_frontend/static/css/main.9a839bc1.css",
+    "main.js": "/vsc_frontend/static/js/main.0d0b3a2e.js",
+    "static/js/787.8bb8eac0.chunk.js": "/vsc_frontend/static/js/787.8bb8eac0.chunk.js",
+    "static/media/volleyball.svg": "/vsc_frontend/static/media/volleyball.eb87dd7bc6ff0177c69ad55bd507b2d5.svg",
+    "index.html": "/vsc_frontend/index.html",
+    "main.9a839bc1.css.map": "/vsc_frontend/static/css/main.9a839bc1.css.map",
+    "main.0d0b3a2e.js.map": "/vsc_frontend/static/js/main.0d0b3a2e.js.map",
+    "787.8bb8eac0.chunk.js.map": "/vsc_frontend/static/js/787.8bb8eac0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a839bc1.css",
-    "static/js/main.53f2c571.js"
+    "static/js/main.0d0b3a2e.js"
   ]
 }
