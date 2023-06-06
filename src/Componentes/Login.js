@@ -112,7 +112,7 @@ function Login() {
           sm={4}
           md={7}
           sx={{
-            backgroundImage: "url(vsc_frontend/public/bg.png)",
+            backgroundImage: "url(https://vscvolley.github.io/vsc_frontend/vsc_frontend/public/bg.png)",
             backgroundRepeat: 'no-repeat',
             backgroundColor: (t) =>
               t.palette.mode === 'light' ? t.palette.grey[50] : t.palette.grey[900],
@@ -196,7 +196,7 @@ function Login() {
               </div>
               <Grid container>
                 <Grid item xs textAlign={'left'}>
-                  <Button href='/vsc_frontend/recuperacao' size='small'>
+                  <Button href='/vsc_frontend' size='small'>
                     Perdi o acesso?
                   </Button>
                 </Grid>
