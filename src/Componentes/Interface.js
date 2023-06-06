@@ -54,7 +54,7 @@ function Interface() {
 
 return (
   <ThemeProvider theme={theme} >
-    <Grid container component="main" sx={{backgroundImage: 'url(/bg1.jpg)',backgroundPosition:'center', overflowX:'hidden', overflowY:'hidden', scrollbarWidth: 'none', msOverflowStyle:'none',}} minHeight='100vh' margin={0}>
+    <Grid container component="main" sx={{backgroundImage: 'url(vsc_frontend/public/bg1.jpg)',backgroundPosition:'center', overflowX:'hidden', overflowY:'hidden', scrollbarWidth: 'none', msOverflowStyle:'none',}} minHeight='100vh' margin={0}>
       <Grid container component={Paper} elevation={5} borderRadius={0}  bgcolor='#41a5f5' width='100vw' maxHeight='8vh' textAlign='center' alignItems='center' justifyContent='center' >
         <Typography component={'span'} fontSize='2.5rem' variant='h3' fontFamily='sans-serif' >VSC Volley <img src={vsc} alt='' height='35vw' width='40vw'></img>
         </Typography>

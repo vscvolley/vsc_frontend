@@ -114,7 +114,7 @@ export default function Registo() {
     }
     
   return (
-    <Grid container component="main" sx={{backgroundImage: 'url(/bg1.jpg)', backgroundRepeat:'repeat', backgroundPosition:'center'}} minHeight='100vh' margin={0}>
+    <Grid container component="main" sx={{backgroundImage: 'url(vsc_frontend/public/bg1.jpg)', backgroundRepeat:'repeat', backgroundPosition:'center'}} minHeight='100vh' margin={0}>
       <Grid paddingtop={'8vh'} height={1} width={'100vw'}></Grid>
       <Grid item minWidth={'100vw'} component={Paper} elevation={6} square sx={{maxHeight:450}}>
           <Box
