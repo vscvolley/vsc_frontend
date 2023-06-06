@@ -29,7 +29,7 @@ function App () {
                   <Route path="perfil" element={<Perfil/>} />
         <Route path='pin' element={<Pin/>}/>
           <Route path='registo' element={<Registo/>}/>
-        <Route path="/vsc_frontend" element={<Recuperacao/>} />
+        <Route path="/recuperacao" element={<Recuperacao/>} />
           <Route path='alterar' element={<Alterar/>}/>
       </Routes>
     </div>
