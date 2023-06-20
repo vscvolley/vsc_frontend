@@ -196,7 +196,7 @@ function Login() {
               </div>
               <Grid container>
                 <Grid item xs textAlign={'left'}>
-                  <Button href='/vsc_frontend' size='small'>
+                  <Button href='/recuperacao' size='small'>
                     Perdi o acesso?
                   </Button>
                 </Grid>
