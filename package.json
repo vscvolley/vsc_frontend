@@ -56,5 +56,11 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  }
+  },
+
+  "jest": {
+      "preset": "@vue/cli-plugin-unit-jest",
+      "transformIgnorePatterns": ["node_modules\/(?!axios)"]
+    }
+  
 }
