@@ -18,7 +18,7 @@ function App () {
   return (
     <div className="App">
       <Routes>
-        <Route path="/vsc_frontend" element={<Login/>} />
+        <Route path="/" element={<Login/>} />
         <Route path="interface" element={<Interface/>} />
               <Route path="challenge" element={<Challenge />} />
               <Route path="mapas" element={<MapasDiv />} />
@@ -29,7 +29,7 @@ function App () {
                   <Route path="perfil" element={<Perfil/>} />
         <Route path='pin' element={<Pin/>}/>
           <Route path='registo' element={<Registo/>}/>
-        <Route path="/recuperacao" element={<Recuperacao/>} />
+        <Route path="recuperacao" element={<Recuperacao/>} />
           <Route path='alterar' element={<Alterar/>}/>
       </Routes>
     </div>
