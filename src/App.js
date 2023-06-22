@@ -18,7 +18,7 @@ function App () {
   return (
     <div className="App">
       <Routes>
-        <Route path="/" element={<Login/>} />
+        <Route path="/vsc_frontend" element={<Login/>} />
         <Route path="interface" element={<Interface/>} />
               <Route path="challenge" element={<Challenge />} />
               <Route path="mapas" element={<MapasDiv />} />
